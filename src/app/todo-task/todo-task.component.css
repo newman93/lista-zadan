@@ -1,0 +1,14 @@
+li {
+	background-color: grey;	
+	margin: 5px;
+}
+
+.odd-li {
+	background-color: green;
+	margin: 5px;
+}
+
+.last-li {
+	background-color: pink;
+	margin: 5px;	
+}
